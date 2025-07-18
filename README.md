@@ -46,6 +46,9 @@ White Gaussian noise models process disturbances and sensor noise.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔸Closed-loop simulation with noisy measurements.
 
+## 5-Dynamic Programming
+This project demonstrates the application of Dynamic Programming (DP) to a constrained discrete-time optimal control problem. The main goal is to determine an optimal sequence of control inputs that minimizes a quadratic cost function while respecting state and input constraints.
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔸State estimates compared with true states, demonstrating estimator performance.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔸Control inputs stabilize the quadcopter along desired trajectories.
